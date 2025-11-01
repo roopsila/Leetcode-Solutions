@@ -10,4 +10,4 @@ This repository contains my personal solutions to various problems on [LeetCode]
 
 Feel free to connect with me or check out my other projects!
 
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/roopam-dhaddha-745b6a380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn:** [(https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/roopam-dhaddha-745b6a380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
